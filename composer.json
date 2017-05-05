@@ -1,0 +1,17 @@
+{
+    "name": "backbee-planet/toolbar-dist",
+    "description": "BackBee Planet Toolbar dist resources",
+    "keywords": [],
+    "type": "library",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Eric Chau",
+            "email": "eric.chau@lp-digital.fr"
+        },
+        {
+            "name": "Florian Kroockmann",
+            "email": "florian.kroockmann@lp-digital.fr"
+        }
+    ]
+}
