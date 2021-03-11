@@ -1,5 +1,5 @@
 {
-    "name": "backbee-planet/toolbar-dist",
+    "name": "backbee/toolbar-dist",
     "description": "BackBee Planet Toolbar dist resources",
     "keywords": [],
     "type": "library",
@@ -12,6 +12,10 @@
         {
             "name": "Florian Kroockmann",
             "email": "florian.kroockmann@lp-digital.fr"
+        },
+        {
+            "name": "Djoudi Bensid",
+            "email": "djoudi.bensid@lp-digital.fr"
         }
     ]
 }
