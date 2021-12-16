@@ -1,10 +1,14 @@
 {
     "name": "backbee/toolbar-dist",
-    "description": "BackBee Planet Toolbar dist resources",
+    "description": "BackBee Toolbar Dist resources",
     "keywords": [],
     "type": "library",
     "license": "GPL-3.0+",
     "authors": [
+	{
+            "name": "Djoudi Bensid",
+            "email": "djoudi.bensid@lp-digital.fr"
+        },
         {
             "name": "Eric Chau",
             "email": "eric.chau@lp-digital.fr"
@@ -12,10 +16,6 @@
         {
             "name": "Florian Kroockmann",
             "email": "florian.kroockmann@lp-digital.fr"
-        },
-        {
-            "name": "Djoudi Bensid",
-            "email": "djoudi.bensid@lp-digital.fr"
         }
     ]
 }

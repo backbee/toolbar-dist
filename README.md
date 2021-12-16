@@ -1,1 +1,1 @@
-Dist files
+BackBee Toolbar Dist files
