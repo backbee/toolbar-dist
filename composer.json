@@ -1,13 +1,14 @@
 {
     "name": "backbee/toolbar-dist",
     "description": "BackBee Toolbar Dist resources",
+    "version": "4.2.6",
     "keywords": [],
     "type": "library",
     "license": "GPL-3.0+",
     "authors": [
 	{
             "name": "Djoudi Bensid",
-            "email": "djoudi.bensid@lp-digital.fr"
+            "email": "d.bensid@obione.eu"
         },
         {
             "name": "Eric Chau",
