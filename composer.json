@@ -1,7 +1,7 @@
 {
     "name": "backbee/toolbar-dist",
     "description": "BackBee Toolbar Dist resources",
-    "version": "v4.2.8",
+    "version": "v4.2.8.1",
     "keywords": [],
     "type": "library",
     "license": "GPL-3.0+",
