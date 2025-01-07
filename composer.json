@@ -1,14 +1,14 @@
 {
     "name": "backbee/toolbar-dist",
     "description": "BackBee Toolbar Dist resources",
-    "version": "4.2.9",
+    "version": "4.2.9.1",
     "keywords": [],
     "type": "library",
     "license": "GPL-3.0+",
     "authors": [
 	{
             "name": "Djoudi Bensid",
-            "email": "d.bensid@obione.eu"
+            "email": "d.bensid@team-one.fr"
         },
         {
             "name": "Eric Chau",
